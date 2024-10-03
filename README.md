@@ -1,5 +1,7 @@
 # Binder desing Loop
 
+Code to perform binder design loop on CD20 (lymphoma marker).
+
 ## Installation
 
 You should follow the instructions from [localcolabfold](https://github.com/YoshitakaMo/localcolabfold) to install that package. You will need to include the colabfold path in your PATH variable in `~/.bashrc` or edit the `colabfold_template.sh` file to include the full path to `colabfold_batch`.
