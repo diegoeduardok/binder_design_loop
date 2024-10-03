@@ -62,15 +62,10 @@ The output is organized as follows:
 ```
 output_directory
 	|
-	|
 	round_{r}
-		|
 		|_colabfold_results # Prdicted structures, scores, log file, etc.
-		|
 		|_seqs # Sequences designed by ProteinMPNN
-		|
 		|_designed_sequences_round_{r}.fa # Sequences from ProteinMPNN formatted for colabfold
-		|
 		|_Other files from ProteinMPNN...
 
 ```
