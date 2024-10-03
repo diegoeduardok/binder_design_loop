@@ -1,6 +1,6 @@
-# Binder desing Loop
+# Binder design loop
 
-Code to perform binder design loop on CD20 (lymphoma marker).
+Code to perform binder design loop on CD20 (lymphoma marker). The main script, `run_design_loop.py`, uses colabfold (i.e., AF2 Multimer) and ProteinMPNN sequentially and iteratively to optimize a peptide binder to the target protein.
 
 ## Installation
 
